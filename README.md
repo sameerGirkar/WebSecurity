@@ -1,4 +1,3 @@
-# WebSecurity
 # Web Security
 ## Hackers 
 Black hat - Hack for money cause the problem.
@@ -47,6 +46,6 @@ White Hat - Appointed by compony to test their products.
 		X-Frame-Options: ALLOW-FROM https://abc.com/ (Chrome/ Safari don’t respect ALLOW-FROM use ‘frame-				ancestors’ csp directive instead.)
 
 6. Third party assets
-![](Screen%20Shot%202019-12-01%20at%209.27.05%20PM.png)
 
-![](Screen%20Shot%202019-12-01%20at%209.29.03%20PM.png)
+
+
